@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\Data\AspCoreWebApi.Data.Context\AspCoreWebApi.Data.Context.csproj" />
+    <ProjectReference Include="..\..\Data\AspCoreWebApi.Data.Model\AspCoreWebApi.Data.Model.csproj" />
+  </ItemGroup>
+
+</Project>

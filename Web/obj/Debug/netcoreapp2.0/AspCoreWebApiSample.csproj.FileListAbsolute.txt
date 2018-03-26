@@ -1,0 +1,15 @@
+C:\Users\ergin.arslan\Documents\Visual Studio 2017\Projects\AspCoreWebApiSample\Web\bin\Debug\netcoreapp2.0\AspCoreWebApiSample.deps.json
+C:\Users\ergin.arslan\Documents\Visual Studio 2017\Projects\AspCoreWebApiSample\Web\bin\Debug\netcoreapp2.0\AspCoreWebApiSample.runtimeconfig.json
+C:\Users\ergin.arslan\Documents\Visual Studio 2017\Projects\AspCoreWebApiSample\Web\bin\Debug\netcoreapp2.0\AspCoreWebApiSample.runtimeconfig.dev.json
+C:\Users\ergin.arslan\Documents\Visual Studio 2017\Projects\AspCoreWebApiSample\Web\bin\Debug\netcoreapp2.0\AspCoreWebApiSample.dll
+C:\Users\ergin.arslan\Documents\Visual Studio 2017\Projects\AspCoreWebApiSample\Web\bin\Debug\netcoreapp2.0\AspCoreWebApiSample.pdb
+C:\Users\ergin.arslan\Documents\Visual Studio 2017\Projects\AspCoreWebApiSample\Web\bin\Debug\netcoreapp2.0\AspCoreWebApi.Data.Context.dll
+C:\Users\ergin.arslan\Documents\Visual Studio 2017\Projects\AspCoreWebApiSample\Web\bin\Debug\netcoreapp2.0\AspCoreWebApi.Data.Model.dll
+C:\Users\ergin.arslan\Documents\Visual Studio 2017\Projects\AspCoreWebApiSample\Web\bin\Debug\netcoreapp2.0\AspCoreWebApi.Data.Context.pdb
+C:\Users\ergin.arslan\Documents\Visual Studio 2017\Projects\AspCoreWebApiSample\Web\bin\Debug\netcoreapp2.0\AspCoreWebApi.Data.Model.pdb
+C:\Users\ergin.arslan\Documents\Visual Studio 2017\Projects\AspCoreWebApiSample\Web\obj\Debug\netcoreapp2.0\AspCoreWebApiSample.csprojResolveAssemblyReference.cache
+C:\Users\ergin.arslan\Documents\Visual Studio 2017\Projects\AspCoreWebApiSample\Web\obj\Debug\netcoreapp2.0\AspCoreWebApiSample.csproj.CoreCompileInputs.cache
+C:\Users\ergin.arslan\Documents\Visual Studio 2017\Projects\AspCoreWebApiSample\Web\obj\Debug\netcoreapp2.0\AspCoreWebApiSample.AssemblyInfoInputs.cache
+C:\Users\ergin.arslan\Documents\Visual Studio 2017\Projects\AspCoreWebApiSample\Web\obj\Debug\netcoreapp2.0\AspCoreWebApiSample.AssemblyInfo.cs
+C:\Users\ergin.arslan\Documents\Visual Studio 2017\Projects\AspCoreWebApiSample\Web\obj\Debug\netcoreapp2.0\AspCoreWebApiSample.dll
+C:\Users\ergin.arslan\Documents\Visual Studio 2017\Projects\AspCoreWebApiSample\Web\obj\Debug\netcoreapp2.0\AspCoreWebApiSample.pdb

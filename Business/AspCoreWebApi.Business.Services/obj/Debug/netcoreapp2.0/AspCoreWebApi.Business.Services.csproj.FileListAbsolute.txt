@@ -1,0 +1,9 @@
+C:\Users\ergin.arslan\Documents\Visual Studio 2017\Projects\AspCoreWebApiSample\Business\AspCoreWebApi.Business.Services\bin\Debug\netcoreapp2.0\AspCoreWebApi.Business.Services.deps.json
+C:\Users\ergin.arslan\Documents\Visual Studio 2017\Projects\AspCoreWebApiSample\Business\AspCoreWebApi.Business.Services\bin\Debug\netcoreapp2.0\AspCoreWebApi.Business.Services.dll
+C:\Users\ergin.arslan\Documents\Visual Studio 2017\Projects\AspCoreWebApiSample\Business\AspCoreWebApi.Business.Services\bin\Debug\netcoreapp2.0\AspCoreWebApi.Business.Services.pdb
+C:\Users\ergin.arslan\Documents\Visual Studio 2017\Projects\AspCoreWebApiSample\Business\AspCoreWebApi.Business.Services\obj\Debug\netcoreapp2.0\AspCoreWebApi.Business.Services.csprojResolveAssemblyReference.cache
+C:\Users\ergin.arslan\Documents\Visual Studio 2017\Projects\AspCoreWebApiSample\Business\AspCoreWebApi.Business.Services\obj\Debug\netcoreapp2.0\AspCoreWebApi.Business.Services.csproj.CoreCompileInputs.cache
+C:\Users\ergin.arslan\Documents\Visual Studio 2017\Projects\AspCoreWebApiSample\Business\AspCoreWebApi.Business.Services\obj\Debug\netcoreapp2.0\AspCoreWebApi.Business.Services.AssemblyInfoInputs.cache
+C:\Users\ergin.arslan\Documents\Visual Studio 2017\Projects\AspCoreWebApiSample\Business\AspCoreWebApi.Business.Services\obj\Debug\netcoreapp2.0\AspCoreWebApi.Business.Services.AssemblyInfo.cs
+C:\Users\ergin.arslan\Documents\Visual Studio 2017\Projects\AspCoreWebApiSample\Business\AspCoreWebApi.Business.Services\obj\Debug\netcoreapp2.0\AspCoreWebApi.Business.Services.dll
+C:\Users\ergin.arslan\Documents\Visual Studio 2017\Projects\AspCoreWebApiSample\Business\AspCoreWebApi.Business.Services\obj\Debug\netcoreapp2.0\AspCoreWebApi.Business.Services.pdb

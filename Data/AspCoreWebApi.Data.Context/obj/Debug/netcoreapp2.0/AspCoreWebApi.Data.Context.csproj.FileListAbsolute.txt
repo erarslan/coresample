@@ -1,0 +1,11 @@
+C:\Users\ergin.arslan\Documents\Visual Studio 2017\Projects\AspCoreWebApiSample\Data\AspCoreWebApi.Data.Context\bin\Debug\netcoreapp2.0\AspCoreWebApi.Data.Context.deps.json
+C:\Users\ergin.arslan\Documents\Visual Studio 2017\Projects\AspCoreWebApiSample\Data\AspCoreWebApi.Data.Context\bin\Debug\netcoreapp2.0\AspCoreWebApi.Data.Context.dll
+C:\Users\ergin.arslan\Documents\Visual Studio 2017\Projects\AspCoreWebApiSample\Data\AspCoreWebApi.Data.Context\bin\Debug\netcoreapp2.0\AspCoreWebApi.Data.Context.pdb
+C:\Users\ergin.arslan\Documents\Visual Studio 2017\Projects\AspCoreWebApiSample\Data\AspCoreWebApi.Data.Context\bin\Debug\netcoreapp2.0\AspCoreWebApi.Data.Model.dll
+C:\Users\ergin.arslan\Documents\Visual Studio 2017\Projects\AspCoreWebApiSample\Data\AspCoreWebApi.Data.Context\bin\Debug\netcoreapp2.0\AspCoreWebApi.Data.Model.pdb
+C:\Users\ergin.arslan\Documents\Visual Studio 2017\Projects\AspCoreWebApiSample\Data\AspCoreWebApi.Data.Context\obj\Debug\netcoreapp2.0\AspCoreWebApi.Data.Context.csprojResolveAssemblyReference.cache
+C:\Users\ergin.arslan\Documents\Visual Studio 2017\Projects\AspCoreWebApiSample\Data\AspCoreWebApi.Data.Context\obj\Debug\netcoreapp2.0\AspCoreWebApi.Data.Context.csproj.CoreCompileInputs.cache
+C:\Users\ergin.arslan\Documents\Visual Studio 2017\Projects\AspCoreWebApiSample\Data\AspCoreWebApi.Data.Context\obj\Debug\netcoreapp2.0\AspCoreWebApi.Data.Context.AssemblyInfoInputs.cache
+C:\Users\ergin.arslan\Documents\Visual Studio 2017\Projects\AspCoreWebApiSample\Data\AspCoreWebApi.Data.Context\obj\Debug\netcoreapp2.0\AspCoreWebApi.Data.Context.AssemblyInfo.cs
+C:\Users\ergin.arslan\Documents\Visual Studio 2017\Projects\AspCoreWebApiSample\Data\AspCoreWebApi.Data.Context\obj\Debug\netcoreapp2.0\AspCoreWebApi.Data.Context.dll
+C:\Users\ergin.arslan\Documents\Visual Studio 2017\Projects\AspCoreWebApiSample\Data\AspCoreWebApi.Data.Context\obj\Debug\netcoreapp2.0\AspCoreWebApi.Data.Context.pdb
