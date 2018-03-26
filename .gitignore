@@ -3,3 +3,6 @@
 ################################################################################
 
 /Business/AspCoreWebApi.Business.Services
+/Data
+/Web
+.vs/
