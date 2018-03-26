@@ -3347,7 +3347,7 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ergin.arslan\\.nuget\\packages\\": {},
+    "C:\\Users\\Aysel\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
@@ -3356,17 +3356,17 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\ergin.arslan\\Documents\\Visual Studio 2017\\Projects\\AspCoreWebApiSample\\Data\\AspCoreWebApi.Data.Context\\AspCoreWebApi.Data.Context.csproj",
+      "projectUniqueName": "C:\\Projects\\coresample\\Data\\AspCoreWebApi.Data.Context\\AspCoreWebApi.Data.Context.csproj",
       "projectName": "AspCoreWebApi.Data.Context",
-      "projectPath": "C:\\Users\\ergin.arslan\\Documents\\Visual Studio 2017\\Projects\\AspCoreWebApiSample\\Data\\AspCoreWebApi.Data.Context\\AspCoreWebApi.Data.Context.csproj",
-      "packagesPath": "C:\\Users\\ergin.arslan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ergin.arslan\\Documents\\Visual Studio 2017\\Projects\\AspCoreWebApiSample\\Data\\AspCoreWebApi.Data.Context\\obj\\",
+      "projectPath": "C:\\Projects\\coresample\\Data\\AspCoreWebApi.Data.Context\\AspCoreWebApi.Data.Context.csproj",
+      "packagesPath": "C:\\Users\\Aysel\\.nuget\\packages\\",
+      "outputPath": "C:\\Projects\\coresample\\Data\\AspCoreWebApi.Data.Context\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\ergin.arslan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Aysel\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -3374,14 +3374,13 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "http://buildserver.gkfx.com/guestAuth/app/nuget/v1/FeedService.svc/": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "C:\\Users\\ergin.arslan\\Documents\\Visual Studio 2017\\Projects\\AspCoreWebApiSample\\Data\\AspCoreWebApi.Data.Model\\AspCoreWebApi.Data.Model.csproj": {
-              "projectPath": "C:\\Users\\ergin.arslan\\Documents\\Visual Studio 2017\\Projects\\AspCoreWebApiSample\\Data\\AspCoreWebApi.Data.Model\\AspCoreWebApi.Data.Model.csproj"
+            "C:\\Projects\\coresample\\Data\\AspCoreWebApi.Data.Model\\AspCoreWebApi.Data.Model.csproj": {
+              "projectPath": "C:\\Projects\\coresample\\Data\\AspCoreWebApi.Data.Model\\AspCoreWebApi.Data.Model.csproj"
             }
           }
         }
@@ -3395,15 +3394,15 @@
     "frameworks": {
       "netcoreapp2.0": {
         "dependencies": {
+          "Microsoft.EntityFrameworkCore.SqlServer": {
+            "target": "Package",
+            "version": "[2.0.2, )"
+          },
           "Microsoft.NETCore.App": {
             "suppressParent": "All",
             "target": "Package",
-            "version": "2.0",
+            "version": "[2.0.0, )",
             "autoReferenced": true
-          },
-          "Microsoft.EntityFrameworkCore.SqlServer": {
-            "target": "Package",
-            "version": "2.0.2"
           }
         },
         "imports": [

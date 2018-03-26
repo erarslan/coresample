@@ -10,12 +10,12 @@ using Microsoft.EntityFrameworkCore;
 
 namespace AspCoreWebApi.Business.Services.Implementations
 {
-    public class Repository<T> : IRepository where T : Entity
+    public class EntityProvider : IEntityProvider
     {
         //private readonly ILogger _logger;
         private readonly ProductContext _productContext;
 
-        public Repository(ProductContext productContext)
+        public EntityProvider(ProductContext productContext)
         {
             _productContext = productContext;
             //_logger = logger;
@@ -52,7 +52,7 @@ namespace AspCoreWebApi.Business.Services.Implementations
             {
                 await _productContext.SaveChangesAsync();
             }
-            catch (Exception ex)
+            catch
             {
                 _productContext.Dispose();
                 //_logger.LogError("Error on save :" + ex);
@@ -60,30 +60,6 @@ namespace AspCoreWebApi.Business.Services.Implementations
             }
 
             return entity.Id;
-        }
-
-        public async Task<long> SaveBulkAsync<TEntity>(List<TEntity> entityList) where TEntity : Entity
-        {
-            foreach (var entity in entityList)
-            {
-                _productContext.Add(entity);
-
-            }
-
-            try
-            {
-                await _productContext.SaveChangesAsync();
-            }
-            catch (Exception ex)
-            {
-                _productContext.Dispose();
-                //_logger.LogError("Error on save :" + ex);
-                throw;
-            }
-
-
-
-            return 0;
         }
     }
 }

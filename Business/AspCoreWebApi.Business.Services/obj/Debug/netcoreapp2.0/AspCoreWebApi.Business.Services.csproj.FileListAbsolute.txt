@@ -7,3 +7,16 @@ C:\Users\ergin.arslan\Documents\Visual Studio 2017\Projects\AspCoreWebApiSample\
 C:\Users\ergin.arslan\Documents\Visual Studio 2017\Projects\AspCoreWebApiSample\Business\AspCoreWebApi.Business.Services\obj\Debug\netcoreapp2.0\AspCoreWebApi.Business.Services.AssemblyInfo.cs
 C:\Users\ergin.arslan\Documents\Visual Studio 2017\Projects\AspCoreWebApiSample\Business\AspCoreWebApi.Business.Services\obj\Debug\netcoreapp2.0\AspCoreWebApi.Business.Services.dll
 C:\Users\ergin.arslan\Documents\Visual Studio 2017\Projects\AspCoreWebApiSample\Business\AspCoreWebApi.Business.Services\obj\Debug\netcoreapp2.0\AspCoreWebApi.Business.Services.pdb
+C:\Projects\coresample\Business\AspCoreWebApi.Business.Services\bin\Debug\netcoreapp2.0\AspCoreWebApi.Business.Services.deps.json
+C:\Projects\coresample\Business\AspCoreWebApi.Business.Services\bin\Debug\netcoreapp2.0\AspCoreWebApi.Business.Services.dll
+C:\Projects\coresample\Business\AspCoreWebApi.Business.Services\bin\Debug\netcoreapp2.0\AspCoreWebApi.Business.Services.pdb
+C:\Projects\coresample\Business\AspCoreWebApi.Business.Services\bin\Debug\netcoreapp2.0\AspCoreWebApi.Data.Context.dll
+C:\Projects\coresample\Business\AspCoreWebApi.Business.Services\bin\Debug\netcoreapp2.0\AspCoreWebApi.Data.Model.dll
+C:\Projects\coresample\Business\AspCoreWebApi.Business.Services\bin\Debug\netcoreapp2.0\AspCoreWebApi.Data.Context.pdb
+C:\Projects\coresample\Business\AspCoreWebApi.Business.Services\bin\Debug\netcoreapp2.0\AspCoreWebApi.Data.Model.pdb
+C:\Projects\coresample\Business\AspCoreWebApi.Business.Services\obj\Debug\netcoreapp2.0\AspCoreWebApi.Business.Services.csprojResolveAssemblyReference.cache
+C:\Projects\coresample\Business\AspCoreWebApi.Business.Services\obj\Debug\netcoreapp2.0\AspCoreWebApi.Business.Services.csproj.CoreCompileInputs.cache
+C:\Projects\coresample\Business\AspCoreWebApi.Business.Services\obj\Debug\netcoreapp2.0\AspCoreWebApi.Business.Services.AssemblyInfoInputs.cache
+C:\Projects\coresample\Business\AspCoreWebApi.Business.Services\obj\Debug\netcoreapp2.0\AspCoreWebApi.Business.Services.AssemblyInfo.cs
+C:\Projects\coresample\Business\AspCoreWebApi.Business.Services\obj\Debug\netcoreapp2.0\AspCoreWebApi.Business.Services.dll
+C:\Projects\coresample\Business\AspCoreWebApi.Business.Services\obj\Debug\netcoreapp2.0\AspCoreWebApi.Business.Services.pdb

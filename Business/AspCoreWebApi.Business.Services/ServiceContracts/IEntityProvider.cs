@@ -6,7 +6,7 @@ using AspCoreWebApi.Data.Model;
 
 namespace AspCoreWebApi.Business.Services.ServiceContracts
 {
-    public interface IRepository
+    public interface IEntityProvider
     {
         Task<TEntity> GetAsync<TEntity>(long id, params Expression<Func<TEntity, object>>[] includes) where TEntity : Entity;
 
@@ -17,7 +17,5 @@ namespace AspCoreWebApi.Business.Services.ServiceContracts
         Task<List<TEntity>> FindAllAsync<TEntity>(Expression<Func<TEntity, bool>> match, params Expression<Func<TEntity, object>>[] includes) where TEntity : Entity;
 
         Task<long> SaveAsync<TEntity>(TEntity entity) where TEntity : Entity;
-
-        Task<long> SaveBulkAsync<TEntity>(List<TEntity> entityList) where TEntity : Entity;
     }
 }

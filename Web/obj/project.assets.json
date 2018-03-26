@@ -5030,6 +5030,20 @@
           "lib/netstandard1.3/Microsoft.WindowsAzure.Storage.dll": {}
         }
       },
+      "AspCoreWebApi.Business.Services/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.0",
+        "dependencies": {
+          "AspCoreWebApi.Data.Context": "1.0.0",
+          "AspCoreWebApi.Data.Model": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/AspCoreWebApi.Business.Services.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/AspCoreWebApi.Business.Services.dll": {}
+        }
+      },
       "AspCoreWebApi.Data.Context/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v2.0",
@@ -13131,6 +13145,11 @@
         "windowsazure.storage.nuspec"
       ]
     },
+    "AspCoreWebApi.Business.Services/1.0.0": {
+      "type": "project",
+      "path": "../Business/AspCoreWebApi.Business.Services/AspCoreWebApi.Business.Services.csproj",
+      "msbuildProject": "../Business/AspCoreWebApi.Business.Services/AspCoreWebApi.Business.Services.csproj"
+    },
     "AspCoreWebApi.Data.Context/1.0.0": {
       "type": "project",
       "path": "../Data/AspCoreWebApi.Data.Context/AspCoreWebApi.Data.Context.csproj",
@@ -13144,6 +13163,7 @@
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.0": [
+      "AspCoreWebApi.Business.Services >= 1.0.0",
       "AspCoreWebApi.Data.Context >= 1.0.0",
       "Microsoft.AspNetCore.All >= 2.0.3",
       "Microsoft.NETCore.App >= 2.0.0",
@@ -13151,7 +13171,7 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ergin.arslan\\.nuget\\packages\\": {},
+    "C:\\Users\\Aysel\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
@@ -13160,17 +13180,17 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\ergin.arslan\\Documents\\Visual Studio 2017\\Projects\\AspCoreWebApiSample\\Web\\AspCoreWebApiSample.csproj",
+      "projectUniqueName": "C:\\Projects\\coresample\\Web\\AspCoreWebApiSample.csproj",
       "projectName": "AspCoreWebApiSample",
-      "projectPath": "C:\\Users\\ergin.arslan\\Documents\\Visual Studio 2017\\Projects\\AspCoreWebApiSample\\Web\\AspCoreWebApiSample.csproj",
-      "packagesPath": "C:\\Users\\ergin.arslan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ergin.arslan\\Documents\\Visual Studio 2017\\Projects\\AspCoreWebApiSample\\Web\\obj\\",
+      "projectPath": "C:\\Projects\\coresample\\Web\\AspCoreWebApiSample.csproj",
+      "packagesPath": "C:\\Users\\Aysel\\.nuget\\packages\\",
+      "outputPath": "C:\\Projects\\coresample\\Web\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\ergin.arslan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Aysel\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -13178,14 +13198,16 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "http://buildserver.gkfx.com/guestAuth/app/nuget/v1/FeedService.svc/": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "C:\\Users\\ergin.arslan\\Documents\\Visual Studio 2017\\Projects\\AspCoreWebApiSample\\Data\\AspCoreWebApi.Data.Context\\AspCoreWebApi.Data.Context.csproj": {
-              "projectPath": "C:\\Users\\ergin.arslan\\Documents\\Visual Studio 2017\\Projects\\AspCoreWebApiSample\\Data\\AspCoreWebApi.Data.Context\\AspCoreWebApi.Data.Context.csproj"
+            "C:\\Projects\\coresample\\Data\\AspCoreWebApi.Data.Context\\AspCoreWebApi.Data.Context.csproj": {
+              "projectPath": "C:\\Projects\\coresample\\Data\\AspCoreWebApi.Data.Context\\AspCoreWebApi.Data.Context.csproj"
+            },
+            "C:\\Projects\\coresample\\Business\\AspCoreWebApi.Business.Services\\AspCoreWebApi.Business.Services.csproj": {
+              "projectPath": "C:\\Projects\\coresample\\Business\\AspCoreWebApi.Business.Services\\AspCoreWebApi.Business.Services.csproj"
             }
           }
         }
@@ -13199,18 +13221,18 @@
     "frameworks": {
       "netcoreapp2.0": {
         "dependencies": {
-          "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+          "Microsoft.AspNetCore.All": {
             "target": "Package",
-            "version": "2.0.0"
+            "version": "[2.0.3, )"
           },
           "Microsoft.NETCore.App": {
             "target": "Package",
-            "version": "2.0",
+            "version": "[2.0.0, )",
             "autoReferenced": true
           },
-          "Microsoft.AspNetCore.All": {
+          "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
             "target": "Package",
-            "version": "2.0.3"
+            "version": "[2.0.0, )"
           }
         },
         "imports": [

@@ -13,3 +13,20 @@ C:\Users\ergin.arslan\Documents\Visual Studio 2017\Projects\AspCoreWebApiSample\
 C:\Users\ergin.arslan\Documents\Visual Studio 2017\Projects\AspCoreWebApiSample\Web\obj\Debug\netcoreapp2.0\AspCoreWebApiSample.AssemblyInfo.cs
 C:\Users\ergin.arslan\Documents\Visual Studio 2017\Projects\AspCoreWebApiSample\Web\obj\Debug\netcoreapp2.0\AspCoreWebApiSample.dll
 C:\Users\ergin.arslan\Documents\Visual Studio 2017\Projects\AspCoreWebApiSample\Web\obj\Debug\netcoreapp2.0\AspCoreWebApiSample.pdb
+C:\Projects\coresample\Web\bin\Debug\netcoreapp2.0\AspCoreWebApiSample.deps.json
+C:\Projects\coresample\Web\bin\Debug\netcoreapp2.0\AspCoreWebApiSample.runtimeconfig.json
+C:\Projects\coresample\Web\bin\Debug\netcoreapp2.0\AspCoreWebApiSample.runtimeconfig.dev.json
+C:\Projects\coresample\Web\bin\Debug\netcoreapp2.0\AspCoreWebApiSample.dll
+C:\Projects\coresample\Web\bin\Debug\netcoreapp2.0\AspCoreWebApiSample.pdb
+C:\Projects\coresample\Web\bin\Debug\netcoreapp2.0\AspCoreWebApi.Business.Services.dll
+C:\Projects\coresample\Web\bin\Debug\netcoreapp2.0\AspCoreWebApi.Data.Context.dll
+C:\Projects\coresample\Web\bin\Debug\netcoreapp2.0\AspCoreWebApi.Data.Model.dll
+C:\Projects\coresample\Web\bin\Debug\netcoreapp2.0\AspCoreWebApi.Business.Services.pdb
+C:\Projects\coresample\Web\bin\Debug\netcoreapp2.0\AspCoreWebApi.Data.Context.pdb
+C:\Projects\coresample\Web\bin\Debug\netcoreapp2.0\AspCoreWebApi.Data.Model.pdb
+C:\Projects\coresample\Web\obj\Debug\netcoreapp2.0\AspCoreWebApiSample.csprojResolveAssemblyReference.cache
+C:\Projects\coresample\Web\obj\Debug\netcoreapp2.0\AspCoreWebApiSample.csproj.CoreCompileInputs.cache
+C:\Projects\coresample\Web\obj\Debug\netcoreapp2.0\AspCoreWebApiSample.AssemblyInfoInputs.cache
+C:\Projects\coresample\Web\obj\Debug\netcoreapp2.0\AspCoreWebApiSample.AssemblyInfo.cs
+C:\Projects\coresample\Web\obj\Debug\netcoreapp2.0\AspCoreWebApiSample.dll
+C:\Projects\coresample\Web\obj\Debug\netcoreapp2.0\AspCoreWebApiSample.pdb
